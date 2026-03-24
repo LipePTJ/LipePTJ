@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://media.tenor.com/P40pX5_m_uUAAAAC/vaporeon-skol.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;"/>
 
@@ -17,7 +15,7 @@
 
 ### 📜 Logbook (Sobre Mim)
 - 🌱 **Learning Path:** Atualmente focado em dominar `Java`, `JavaScript`, `HTML` e todo o ecossistema Web.
-- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. 
+- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. Buscando o meu "One Piece" no mundo do código!
 - 📫 **Contact:** Sinta-se à vontade para me chamar no e-mail acima.
 
 ---
@@ -34,10 +32,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePTJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePTJ&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePTJ&layout=compact&langs_count=7&theme=radical"/>
       </td>
     </tr>
   </table>
@@ -52,4 +50,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  <i>"The world has too many heroes, but not enough pirates."</i>
 </p>
