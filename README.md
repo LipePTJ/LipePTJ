@@ -15,7 +15,7 @@
 
 ### 📜 Logbook (Sobre Mim)
 - 🌱 **Learning Path:** Atualmente focado em dominar `Java`, `JavaScript`, `HTML` e todo o ecossistema Web.
-- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. Buscando o meu "One Piece" no mundo do código!
+- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. Buscando o meu "One Piece" 
 - 📫 **Contact:** Sinta-se à vontade para me chamar no e-mail acima.
 
 ---
@@ -35,7 +35,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical"/>
       </td>
       <td>
-        <img height="180em" src="https://tenor.com/pt-BR/view/vaporeon-skol-bicho-veio-bom-gif-7108440446679776729"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePTJ&layout=compact&langs_count=7&theme=radical"/>
       </td>
     </tr>
   </table>
@@ -50,5 +50,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  <i>"The world has too many heroes, but not enough pirates."</i>
 </p>
