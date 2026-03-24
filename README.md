@@ -35,7 +35,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePTJ&layout=compact&langs_count=7&theme=radical"/>
+        <img height="180em" src="https://tenor.com/pt-BR/view/vaporeon-skol-bicho-veio-bom-gif-7108440446679776729"/>
       </td>
     </tr>
   </table>
