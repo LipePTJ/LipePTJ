@@ -27,19 +27,20 @@
 
 ---
 
-### 📊 Training Stats (Pokédex Mode)
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePTJ&layout=compact&langs_count=7&theme=radical"/>
-      </td>
-    </tr>
-  </table>
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LipePTJ&layout=donut" />
+    </td>
+  </tr>
+</table>
 </div>
+
+
 
 ---
 
