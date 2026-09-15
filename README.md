@@ -46,7 +46,7 @@
 
 ### 🎬 My Favorite Scene
 <div align="center">
-  <img src="https://i.pinimg.com/originals/24/cc/a4/24cca421862a694fffcf184eab118f52.gif" width="500">
+  <img src="https://media1.tenor.com/m/ljOtmCTOR6YAAAAC/seiun-sky-uma-musume.gif" width="500">
 </div>
 
 <p align="center">
