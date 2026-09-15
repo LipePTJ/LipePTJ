@@ -15,7 +15,7 @@
 
 ### 📜 Logbook (Sobre Mim)
 - 🌱 **Learning Path:** Atualmente focado em dominar `Java`, `JavaScript`, `HTML` e todo o ecossistema Web.
-- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. Buscando o meu "One Piece" 
+- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. 
 - 📫 **Contact:** Sinta-se à vontade para me chamar no e-mail acima.
 
 ---
