@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua o caminho da imagem pelo link dela hospedada no próprio GitHub ou em um site como o Imgur -->
-<img src="https://br.pinterest.com/pin/4011087181263842/" width="280px" style="border-radius: 20px; margin-bottom: 15px;" alt="Vaporeon" />
+<img src="https://i.pinimg.com/736x/db/c7/af/dbc7af1cd63e9f743e1382ce70ba10b3.jpg" width="280px" style="border-radius: 20px; margin-bottom: 15px;" alt="Vaporeon" />
 
   <h1>Felipe "Lipe"</h1>
   <h3>Java & JavaScript Developer 🌊</h3>
