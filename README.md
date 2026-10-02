@@ -1,54 +1,43 @@
 <div align="center">
-  <img src="https://media.tenor.com/P40pX5_m_uUAAAAC/vaporeon-skol.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;"/>
+  <!-- Substitua o caminho da imagem pelo link dela hospedada no próprio GitHub ou em um site como o Imgur -->
+  <img src="e887fde4eb4fe4c5948f93b9fa9e2563.jpg" width="280px" style="border-radius: 20px; margin-bottom: 15px;" alt="Vaporeon" />
 
-  <h1>⚓ Hi 👋, I'm Felipe "Lipe"</h1>
-  <h3>Java & JavaScript Explorer 🍎</h3>
+  <h1>Felipe "Lipe"</h1>
+  <h3>Java & JavaScript Developer 🌊</h3>
 
   <p>
     <a href="mailto:felipepereirateles71@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contato_via_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-### 📜 Logbook (Sobre Mim)
-- 🌱 **Learning Path:** Atualmente focado em dominar `Java`, `JavaScript`, `HTML` e todo o ecossistema Web.
-- ⚡ **Fun Fact:** Grande fã de **One Piece** e mestre **Pokémon**. 
-- 📫 **Contact:** Sinta-se à vontade para me chamar no e-mail acima.
+### 💧 Sobre Mim
+- 🌱 **Foco de Estudo:** Aprofundando conhecimentos em `Java`, `JavaScript`, `HTML` e no ecossistema Web.
+- ⚡ **Interesses:** Tecnologia, universo geek (especialmente One Piece) e Mestre Pokémon nas horas vagas.
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,git,github" />
-</p>
-
----
-
+### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-<table border="0">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,git,github" />
+</div>
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+<table border="0" style="background-color: transparent;">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LipePTJ&show_icons=true&theme=radical" />
+      <!-- Cores personalizadas para combinar com o Vaporeon -->
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LipePTJ&show_icons=true&title_color=1E3A8A&text_color=1E40AF&icon_color=3B82F6&bg_color=EFF6FF&hide_border=true" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LipePTJ&layout=donut" />
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LipePTJ&layout=donut&title_color=1E3A8A&text_color=1E40AF&bg_color=EFF6FF&hide_border=true" />
     </td>
   </tr>
 </table>
 </div>
-
-
-
----
-
-### 🎬 My Favorite Scene
-<div align="center">
-  <img src="https://media1.tenor.com/m/ljOtmCTOR6YAAAAC/seiun-sky-uma-musume.gif" width="500">
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-</p>
